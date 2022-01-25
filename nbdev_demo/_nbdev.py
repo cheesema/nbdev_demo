@@ -8,6 +8,6 @@ modules = ["core.py"]
 
 doc_url = "https://cheesema.github.io/nbdev_demo/"
 
-git_url = "https://github.com/cheesema/nbdev_demo/tree/Master/"
+git_url = "https://github.com/cheesema/nbdev_demo/tree/master/"
 
 def custom_doc_links(name): return None
